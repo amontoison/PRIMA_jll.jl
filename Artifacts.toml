@@ -8,3 +8,12 @@ os = "linux"
     [[PRIMA.download]]
     sha256 = "2e78bdba25733de75a62e8d0307cb01b72e9a69934d902ebc54a5a22825b1053"
     url = "https://github.com/amontoison/PRIMA_jll.jl/releases/download/PRIMA-v0.8.0+0/PRIMA.v0.8.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[PRIMA]]
+arch = "x86_64"
+git-tree-sha1 = "5fdbf72150f3b03f83915b34d9a120acca137403"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[PRIMA.download]]
+    sha256 = "44b460b0cf1f00bba7a999183f53badd53f5b1ddecae9e93447bf78d6d55ba98"
+    url = "https://github.com/amontoison/PRIMA_jll.jl/releases/download/PRIMA-v0.8.0+0/PRIMA.v0.8.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
