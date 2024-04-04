@@ -1,10 +1,10 @@
 [[PRIMA]]
 arch = "x86_64"
-git-tree-sha1 = "b1ec314d9feda936d18784dc394ca2e7f3a4fc2b"
+git-tree-sha1 = "59daf374545ca9924fdf3ed27d90e793af10cc8b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PRIMA.download]]
-    sha256 = "098b958fc2f705f1b57960d8b76028713da93f69aef6879340650fe49ea99fea"
-    url = "https://github.com/amontoison/PRIMA_jll.jl/releases/download/PRIMA-v0.7.1+1/PRIMA.v0.7.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "2e78bdba25733de75a62e8d0307cb01b72e9a69934d902ebc54a5a22825b1053"
+    url = "https://github.com/amontoison/PRIMA_jll.jl/releases/download/PRIMA-v0.8.0+0/PRIMA.v0.8.0.x86_64-linux-gnu-libgfortran5.tar.gz"

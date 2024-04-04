@@ -1,6 +1,6 @@
 name = "PRIMA_jll"
 uuid = "eead6e0c-2d5b-5641-a95c-b722de96d551"
-version = "0.7.1+1"
+version = "0.8.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
