@@ -1,0 +1,10 @@
+[[PRIMA]]
+arch = "x86_64"
+git-tree-sha1 = "b1ec314d9feda936d18784dc394ca2e7f3a4fc2b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PRIMA.download]]
+    sha256 = "098b958fc2f705f1b57960d8b76028713da93f69aef6879340650fe49ea99fea"
+    url = "https://github.com/amontoison/PRIMA_jll.jl/releases/download/PRIMA-v0.7.1+1/PRIMA.v0.7.1.x86_64-linux-gnu-libgfortran5.tar.gz"
